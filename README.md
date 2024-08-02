@@ -1,2 +1,4 @@
 # Smg-Demo
-My first GitHub demo project
+
+Hello there
+This is my first GitHub demo project
